@@ -9,7 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loli-okinawa&layout=compact&theme=dark&langs_count=100" alt="Top Languages" width="300" align="left"/></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=loli-okinawa&show_icons=true&theme=dark&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="500" align="right"/></a>
-</p>
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=loli-okinawa&theme=transparent)](https://github.com/loli-okinawa)
+
+
