@@ -11,4 +11,4 @@
 
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=loli-okinawa&theme=transparent)](https://github.com/loli-okinawa)
 
-
+<img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=loli-okinawa&layout=compact&langs_count=8&card_width=320&theme=transparent" />
