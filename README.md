@@ -4,8 +4,7 @@
 
 ### Web Development • Agentic Engineering • Game Development • Harness Engineering
 
-Building AI-assisted developer workflows, scalable backend systems, and multiplayer games with Unreal Engine.  
-Previously created VRChat worlds with over **20 million visits**.
+Building AI-assisted developer workflows, scalable backend systems, and multiplayer games with Unreal Engine.
 
 <p align="center">
   <img
